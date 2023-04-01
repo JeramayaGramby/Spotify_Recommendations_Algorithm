@@ -7,3 +7,6 @@ import sqlite3
 import spotipy
 import spotipy.oauth2 as oauth2
 import boto3
+
+if __name__ == '__main__':
+    pass
